@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### About me:
+I'm a Colombian SENA student with interests in biomedical engineering, medicine and programming
 <!--
 **Nmy81244/nmy81244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
