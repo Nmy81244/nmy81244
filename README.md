@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me:
-Colombian bioenginnering major
+Colombian electronic engineering major
 <!--
 **Nmy81244/nmy81244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
